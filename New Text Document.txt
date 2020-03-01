@@ -1,0 +1,18 @@
+<tr>
+          <td>02</td>
+          <td>ANM Jubaer</td>
+          <td>12</td>
+          <td>
+            <input type="radio" name="attend" value="present">P
+            <input type="radio" name="attend" value="absent">A
+          </td>
+        </tr>
+        <tr>
+          <td>03</td>
+          <td>Afif Al Mamun</td>
+          <td>13</td>
+          <td>
+            <input type="radio" name="attend" value="present">P
+            <input type="radio" name="attent" value="absent">A
+          </td>
+        </tr>
